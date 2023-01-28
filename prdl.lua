@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = tostring("Semi-Catholic ESP"), HidePremium = false, SaveConfig = false})
+local Window = OrionLib:MakeWindow({Name = tostring("sdjds bro script"), HidePremium = false, SaveConfig = false})
 
 local Tab = Window:MakeTab({
         Name = "ESP",
